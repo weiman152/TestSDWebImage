@@ -1,0 +1,4 @@
+# TestSDWebImage
+使用SDWebImage加载webp的图片的demo
+
+TestSDImport和TestSD_2都是使用SDWebImage加载webp图片的demo，两者都行。
